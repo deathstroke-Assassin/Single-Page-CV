@@ -15,3 +15,5 @@ A semantic HTML CV built as part of the roadmap.sh Frontend Developer roadmap.
 - HTML5
 
 ## Live Demo
+
+https://deathstroke-assassin.github.io/Single-Page-CV/
